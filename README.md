@@ -19,6 +19,23 @@ Here are some ideas to get you started:
 🌱Soy una persona apasionada por la tecnología 
 Me considero una entusiasta de aprender cosas nuevas.
 
+#### Habilidades de Desarrollo 
+
+Intermedio 
+
+♦️C++
+♦️Java
+♦️Node Js
+
+Básico 
+♣️Python
+♣️R
+♣️Prolog
+♣️Scheme
+
+
+#### Software
+♠️Mathematica
 
 #### Conoce mi Blog
 [Blogger] (https://maria-ies.blogspot.com/)
