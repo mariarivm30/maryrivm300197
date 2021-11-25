@@ -21,24 +21,36 @@ Me considero una entusiasta de aprender cosas nuevas.
 
 #### Habilidades de Desarrollo 
 
-Intermedio 
+Intermedio:
 
 ♦️C++
+
 ♦️Java
+
 ♦️Node Js
 
-Básico 
+Básico:
+
+
 ♣️Python
+
 ♣️R
+
 ♣️Prolog
+
 ♣️Scheme
+
 ♣️Kotlin
 
 
 #### Software
-♠️Mathematica
+
+♠️Wolfram Mathematica
+
 ♠️Mysql
+
 ♠️Oracle Database
+
 ♠️Packet Tracer 
 
 #### Conoce mi Blog
