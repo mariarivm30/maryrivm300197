@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 #### Contacto
 
-[LinkedIn]
+[LinkedIn](https://www.linkedin.com/in/maría-j-rivera-m-426433114)
