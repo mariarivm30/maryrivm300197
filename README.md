@@ -37,8 +37,9 @@ Básico
 
 #### Software
 ♠️Mathematica
-♣️Mysql
-♣️Oracle Database
+♠️Mysql
+♠️Oracle Database
+♠️Packet Tracer 
 
 #### Conoce mi Blog
 [Blogger] (https://maria-ies.blogspot.com/)
