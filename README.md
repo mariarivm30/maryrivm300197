@@ -14,6 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Contacto
+#### Sobre mí
+
+🌱Soy una persona apasionada por la tecnología 
+Me considero una entusiasta de aprender cosas nuevas.
+
+
+#### Conoce mi Blog
+[Blogger] (https://maria-ies.blogspot.com/)
+
+
+#### Redes Sociales 
 
 [LinkedIn](https://www.linkedin.com/in/maría-j-rivera-m-426433114)
