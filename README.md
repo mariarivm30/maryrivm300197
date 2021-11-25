@@ -32,10 +32,13 @@ Básico
 ♣️R
 ♣️Prolog
 ♣️Scheme
+♣️Kotlin
 
 
 #### Software
 ♠️Mathematica
+♣️Mysql
+♣️Oracle Database
 
 #### Conoce mi Blog
 [Blogger] (https://maria-ies.blogspot.com/)
